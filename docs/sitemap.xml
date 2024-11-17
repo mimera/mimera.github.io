@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/mimera.github.io/</loc>
+    <loc>/</loc>
     <lastmod>2024-11-16T17:24:39-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/mimera.github.io/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/mimera.github.io/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>
