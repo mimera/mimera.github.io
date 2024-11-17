@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Smart Environment Technologies Lab</title>
-    <link>https://mimera/mimera.github.io/</link>
+    <link>http://localhost:1313/mimera.github.io/</link>
     <description>Recent content on Smart Environment Technologies Lab</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <managingEditor>imera@espol.edu.ec (Maria I. Mera)</managingEditor>
-    <webMaster>imera@espol.edu.ec (Maria I. Mera)</webMaster>
+    <managingEditor>imera@espol.edu.ec (M. I. Mera)</managingEditor>
+    <webMaster>imera@espol.edu.ec (M. I. Mera)</webMaster>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="https://mimera/mimera.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/mimera.github.io/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
