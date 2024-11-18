@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Smart Environment Technologies Lab</title>
-    <link>/categories/</link>
+    <link>https://mimera.github.io/categories/</link>
     <description>Recent content in Categories on Smart Environment Technologies Lab</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>imera@espol.edu.ec (M. I. Mera)</managingEditor>
     <webMaster>imera@espol.edu.ec (M. I. Mera)</webMaster>
-    <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mimera.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
